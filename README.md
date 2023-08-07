@@ -1,4 +1,6 @@
 # python-challenge
+![image](https://github.com/nasr9000/python-challenge/assets/128746625/3d2b0bf4-2807-46fb-8d53-d09bd2be56a2)
+![image](https://github.com/nasr9000/python-challenge/assets/128746625/431b8e98-291b-4ade-9485-f82c3dc97701)
 
 PyBank Instructions
 
